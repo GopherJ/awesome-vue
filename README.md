@@ -1019,6 +1019,7 @@ Tooltips / popovers
  - [vue-chartkick](https://github.com/ankane/vue-chartkick) - Create beautiful JavaScript charts with one line of Vue
  - [d3vue](https://github.com/ignoreintuition/d3vue) - A D3 Plugin for Creating Reactive Data Visualizations in VueJS
  - [vue2-frappe](https://github.com/JustSteveKing/vue2-frappe) - A simple wrapper around Frappe Charts for VueJS
+ - [d3-vs](https://github.com/GopherJ/Vs) - D3 Components for Data Visualisation in VueJS
 
 ### Time
 
@@ -1242,6 +1243,7 @@ Tooltips / popovers
 - [vue-persian-datetime-picker](https://github.com/talkhabi/vue-persian-datetime-picker) Persian material datepicker. Supports datetime, date, time, year, month.
 - [VCalendar](https://vcalendar.io/) Very customizable and powerfull calendar/datepicker component with many features and good docummentation.
 - [@owumaro/vue-date-range-picker](https://github.com/Owumaro/vue-date-range-picker) - A vue component using Bootstrap 4 styles for date range selection
+- [TimeRange](https://github.com/GopherJ/TimeRange) - A date time range picker like in Elasticsearch
 
 #### Select
 
